@@ -1,0 +1,2502 @@
+[
+    {
+        "id": 1,
+        "side": "front",
+        "text": "PEA ____"
+    },
+    {
+        "id": 2,
+        "side": "front",
+        "text": "NECK ____"
+    },
+    {
+        "id": 3,
+        "side": "front",
+        "text": "CHEAP ____"
+    },
+    {
+        "id": 4,
+        "side": "front",
+        "text": "ROLLER ____"
+    },
+    {
+        "id": 5,
+        "side": "front",
+        "text": "LIME ____"
+    },
+    {
+        "id": 6,
+        "side": "front",
+        "text": "HAPPY ____"
+    },
+    {
+        "id": 7,
+        "side": "front",
+        "text": "HEAD ____"
+    },
+    {
+        "id": 8,
+        "side": "front",
+        "text": "PILLOW ____"
+    },
+    {
+        "id": 9,
+        "side": "front",
+        "text": "MILK ____"
+    },
+    {
+        "id": 10,
+        "side": "front",
+        "text": "BROKEN ____"
+    },
+    {
+        "id": 11,
+        "side": "front",
+        "text": "CHOP ____"
+    },
+    {
+        "id": 12,
+        "side": "front",
+        "text": "NIGHT ____"
+    },
+    {
+        "id": 13,
+        "side": "front",
+        "text": "PARTY ____"
+    },
+    {
+        "id": 14,
+        "side": "front",
+        "text": "RUNNING ____"
+    },
+    {
+        "id": 15,
+        "side": "front",
+        "text": "CAR ____"
+    },
+    {
+        "id": 16,
+        "side": "front",
+        "text": "MIDDLE ____"
+    },
+    {
+        "id": 17,
+        "side": "front",
+        "text": "HALF ____"
+    },
+    {
+        "id": 18,
+        "side": "front",
+        "text": "PINE ____"
+    },
+    {
+        "id": 19,
+        "side": "front",
+        "text": "FREE ____"
+    },
+    {
+        "id": 20,
+        "side": "front",
+        "text": "CHRISTMAS ____"
+    },
+    {
+        "id": 21,
+        "side": "front",
+        "text": "BIRTH ____"
+    },
+    {
+        "id": 22,
+        "side": "front",
+        "text": "SHOT ____"
+    },
+    {
+        "id": 23,
+        "side": "front",
+        "text": "GREEN ____"
+    },
+    {
+        "id": 24,
+        "side": "front",
+        "text": "LONG ____"
+    },
+    {
+        "id": 25,
+        "side": "front",
+        "text": "RAW ____"
+    },
+    {
+        "id": 26,
+        "side": "front",
+        "text": "REST ____"
+    },
+    {
+        "id": 27,
+        "side": "front",
+        "text": "JAIL ____"
+    },
+    {
+        "id": 28,
+        "side": "front",
+        "text": "MONKEY ____"
+    },
+    {
+        "id": 29,
+        "side": "front",
+        "text": "SAFETY ____"
+    },
+    {
+        "id": 30,
+        "side": "front",
+        "text": "ROOT ____"
+    },
+    {
+        "id": 31,
+        "side": "front",
+        "text": "EVER ____"
+    },
+    {
+        "id": 32,
+        "side": "front",
+        "text": "HARD ____"
+    },
+    {
+        "id": 33,
+        "side": "front",
+        "text": "RIGHT ____"
+    },
+    {
+        "id": 34,
+        "side": "front",
+        "text": "DAY ____"
+    },
+    {
+        "id": 35,
+        "side": "front",
+        "text": "POT ____"
+    },
+    {
+        "id": 36,
+        "side": "front",
+        "text": "REAL ____"
+    },
+    {
+        "id": 37,
+        "side": "front",
+        "text": "FRESH ____"
+    },
+    {
+        "id": 38,
+        "side": "front",
+        "text": "MIXED ____"
+    },
+    {
+        "id": 39,
+        "side": "front",
+        "text": "BLACK ____"
+    },
+    {
+        "id": 40,
+        "side": "front",
+        "text": "FOR ____"
+    },
+    {
+        "id": 41,
+        "side": "front",
+        "text": "SAND ____"
+    },
+    {
+        "id": 42,
+        "side": "front",
+        "text": "GAS ____"
+    },
+    {
+        "id": 43,
+        "side": "front",
+        "text": "LIP ____"
+    },
+    {
+        "id": 44,
+        "side": "front",
+        "text": "HORSE ____"
+    },
+    {
+        "id": 45,
+        "side": "front",
+        "text": "CRAB ____"
+    },
+    {
+        "id": 46,
+        "side": "front",
+        "text": "DRIVE ____"
+    },
+    {
+        "id": 47,
+        "side": "front",
+        "text": "NICE ____"
+    },
+    {
+        "id": 48,
+        "side": "front",
+        "text": "GRAND ____"
+    },
+    {
+        "id": 49,
+        "side": "front",
+        "text": "GO ____"
+    },
+    {
+        "id": 50,
+        "side": "front",
+        "text": "PUNCH ____"
+    },
+    {
+        "id": 51,
+        "side": "front",
+        "text": "BEACH ____"
+    },
+    {
+        "id": 52,
+        "side": "front",
+        "text": "SCHOOL ____"
+    },
+    {
+        "id": 53,
+        "side": "front",
+        "text": "BOTTOM ____"
+    },
+    {
+        "id": 54,
+        "side": "front",
+        "text": "PRIME ____"
+    },
+    {
+        "id": 55,
+        "side": "front",
+        "text": "OUT ____"
+    },
+    {
+        "id": 56,
+        "side": "front",
+        "text": "MINI ____"
+    },
+    {
+        "id": 57,
+        "side": "front",
+        "text": "BIG ____"
+    },
+    {
+        "id": 58,
+        "side": "front",
+        "text": "MUD ____"
+    },
+    {
+        "id": 59,
+        "side": "front",
+        "text": "BOWLING ____"
+    },
+    {
+        "id": 60,
+        "side": "front",
+        "text": "BACK ____"
+    },
+    {
+        "id": 61,
+        "side": "front",
+        "text": "BEAN ____"
+    },
+    {
+        "id": 62,
+        "side": "front",
+        "text": "OVER ____"
+    },
+    {
+        "id": 63,
+        "side": "front",
+        "text": "LEADING ____"
+    },
+    {
+        "id": 64,
+        "side": "front",
+        "text": "DEADLY ____"
+    },
+    {
+        "id": 65,
+        "side": "front",
+        "text": "BOOK ____"
+    },
+    {
+        "id": 66,
+        "side": "front",
+        "text": "SECOND ____"
+    },
+    {
+        "id": 67,
+        "side": "front",
+        "text": "PIN ____"
+    },
+    {
+        "id": 68,
+        "side": "front",
+        "text": "SALT ____"
+    },
+    {
+        "id": 69,
+        "side": "front",
+        "text": "PRETTY ____"
+    },
+    {
+        "id": 70,
+        "side": "front",
+        "text": "HONEY ____"
+    },
+    {
+        "id": 71,
+        "side": "front",
+        "text": "BUBBLE ____"
+    },
+    {
+        "id": 72,
+        "side": "front",
+        "text": "RUBBER ____"
+    },
+    {
+        "id": 73,
+        "side": "front",
+        "text": "GOLF ____"
+    },
+    {
+        "id": 74,
+        "side": "front",
+        "text": "FINGER ____"
+    },
+    {
+        "id": 75,
+        "side": "front",
+        "text": "AIR ____"
+    },
+    {
+        "id": 76,
+        "side": "front",
+        "text": "PARKING ____"
+    },
+    {
+        "id": 77,
+        "side": "front",
+        "text": "BUS ____"
+    },
+    {
+        "id": 78,
+        "side": "front",
+        "text": "OFF ____"
+    },
+    {
+        "id": 79,
+        "side": "front",
+        "text": "HANG ____"
+    },
+    {
+        "id": 80,
+        "side": "front",
+        "text": "GRAPE ____"
+    },
+    {
+        "id": 81,
+        "side": "front",
+        "text": "BABY ____"
+    },
+    {
+        "id": 82,
+        "side": "front",
+        "text": "CHOCOLATE ____"
+    },
+    {
+        "id": 83,
+        "side": "front",
+        "text": "CENTER ____"
+    },
+    {
+        "id": 84,
+        "side": "front",
+        "text": "FRONT ____"
+    },
+    {
+        "id": 85,
+        "side": "front",
+        "text": "LUCKY ____"
+    },
+    {
+        "id": 86,
+        "side": "front",
+        "text": "BULL ____"
+    },
+    {
+        "id": 87,
+        "side": "front",
+        "text": "GOOD ____"
+    },
+    {
+        "id": 88,
+        "side": "front",
+        "text": "FLAT ____"
+    },
+    {
+        "id": 89,
+        "side": "front",
+        "text": "MASS ____"
+    },
+    {
+        "id": 90,
+        "side": "front",
+        "text": "BED ____"
+    },
+    {
+        "id": 91,
+        "side": "front",
+        "text": "SALAD ____"
+    },
+    {
+        "id": 92,
+        "side": "front",
+        "text": "BELLY ____"
+    },
+    {
+        "id": 93,
+        "side": "front",
+        "text": "BODY ____"
+    },
+    {
+        "id": 94,
+        "side": "front",
+        "text": "BOX ____"
+    },
+    {
+        "id": 95,
+        "side": "front",
+        "text": "BAKED ____"
+    },
+    {
+        "id": 96,
+        "side": "front",
+        "text": "BRASS ____"
+    },
+    {
+        "id": 97,
+        "side": "front",
+        "text": "HEALTH ____"
+    },
+    {
+        "id": 98,
+        "side": "front",
+        "text": "COUNTRY ____"
+    },
+    {
+        "id": 99,
+        "side": "front",
+        "text": "NAME ____"
+    },
+    {
+        "id": 100,
+        "side": "front",
+        "text": "GUESS ____"
+    },
+    {
+        "id": 101,
+        "side": "front",
+        "text": "HEAVY ____"
+    },
+    {
+        "id": 102,
+        "side": "front",
+        "text": "JUNGLE ____"
+    },
+    {
+        "id": 103,
+        "side": "front",
+        "text": "GARBAGE ____"
+    },
+    {
+        "id": 104,
+        "side": "front",
+        "text": "FIRST ____"
+    },
+    {
+        "id": 105,
+        "side": "front",
+        "text": "MOUNTAIN ____"
+    },
+    {
+        "id": 106,
+        "side": "front",
+        "text": "DOG ____"
+    },
+    {
+        "id": 107,
+        "side": "front",
+        "text": "BOARD ____"
+    },
+    {
+        "id": 108,
+        "side": "front",
+        "text": "FALSE ____"
+    },
+    {
+        "id": 109,
+        "side": "front",
+        "text": "AMERICAN ____"
+    },
+    {
+        "id": 110,
+        "side": "front",
+        "text": "MAIN ____"
+    },
+    {
+        "id": 111,
+        "side": "front",
+        "text": "HAIR ____"
+    },
+    {
+        "id": 112,
+        "side": "front",
+        "text": "GUEST ____"
+    },
+    {
+        "id": 113,
+        "side": "front",
+        "text": "FRIED ____"
+    },
+    {
+        "id": 114,
+        "side": "front",
+        "text": "SAME ____"
+    },
+    {
+        "id": 115,
+        "side": "front",
+        "text": "BIRTHDAY ____"
+    },
+    {
+        "id": 116,
+        "side": "front",
+        "text": "FIRE ____"
+    },
+    {
+        "id": 117,
+        "side": "front",
+        "text": "DOWN ____"
+    },
+    {
+        "id": 118,
+        "side": "front",
+        "text": "PENNY ____"
+    },
+    {
+        "id": 119,
+        "side": "front",
+        "text": "PAPER ____"
+    },
+    {
+        "id": 120,
+        "side": "front",
+        "text": "KEY ____"
+    },
+    {
+        "id": 121,
+        "side": "front",
+        "text": "ROUND ____"
+    },
+    {
+        "id": 122,
+        "side": "front",
+        "text": "BLUE ____"
+    },
+    {
+        "id": 123,
+        "side": "front",
+        "text": "FAST ____"
+    },
+    {
+        "id": 124,
+        "side": "front",
+        "text": "CHEESE ____"
+    },
+    {
+        "id": 125,
+        "side": "front",
+        "text": "BUSY ____"
+    },
+    {
+        "id": 126,
+        "side": "front",
+        "text": "FISH ____"
+    },
+    {
+        "id": 127,
+        "side": "front",
+        "text": "RAIN ____"
+    },
+    {
+        "id": 128,
+        "side": "front",
+        "text": "RICE ____"
+    },
+    {
+        "id": 129,
+        "side": "front",
+        "text": "MOON ____"
+    },
+    {
+        "id": 130,
+        "side": "front",
+        "text": "EYE ____"
+    },
+    {
+        "id": 131,
+        "side": "front",
+        "text": "FACE ____"
+    },
+    {
+        "id": 132,
+        "side": "front",
+        "text": "WATER ____"
+    },
+    {
+        "id": 133,
+        "side": "front",
+        "text": "PLAY ____"
+    },
+    {
+        "id": 134,
+        "side": "front",
+        "text": "MOTOR ____"
+    },
+    {
+        "id": 135,
+        "side": "front",
+        "text": "CASH ____"
+    },
+    {
+        "id": 136,
+        "side": "front",
+        "text": "HOUSE ____"
+    },
+    {
+        "id": 137,
+        "side": "front",
+        "text": "OPEN ____"
+    },
+    {
+        "id": 138,
+        "side": "front",
+        "text": "OIL ____"
+    },
+    {
+        "id": 139,
+        "side": "front",
+        "text": "HUMAN ____"
+    },
+    {
+        "id": 140,
+        "side": "front",
+        "text": "DINNER ____"
+    },
+    {
+        "id": 141,
+        "side": "front",
+        "text": "HEART ____"
+    },
+    {
+        "id": 142,
+        "side": "front",
+        "text": "COFFEE ____"
+    },
+    {
+        "id": 143,
+        "side": "front",
+        "text": "ELBOW ____"
+    },
+    {
+        "id": 144,
+        "side": "front",
+        "text": "PEPPER ____"
+    },
+    {
+        "id": 145,
+        "side": "front",
+        "text": "BATH ____"
+    },
+    {
+        "id": 146,
+        "side": "front",
+        "text": "MEAT ____"
+    },
+    {
+        "id": 147,
+        "side": "front",
+        "text": "FOOT ____"
+    },
+    {
+        "id": 148,
+        "side": "front",
+        "text": "LOVE ____"
+    },
+    {
+        "id": 149,
+        "side": "front",
+        "text": "RED ____"
+    },
+    {
+        "id": 150,
+        "side": "front",
+        "text": "DIRT ____"
+    },
+    {
+        "id": 151,
+        "side": "front",
+        "text": "SINGLE ____"
+    },
+    {
+        "id": 152,
+        "side": "front",
+        "text": "POCKET ____"
+    },
+    {
+        "id": 153,
+        "side": "front",
+        "text": "COURT ____"
+    },
+    {
+        "id": 154,
+        "side": "front",
+        "text": "MAGIC ____"
+    },
+    {
+        "id": 155,
+        "side": "front",
+        "text": "GROWING ____"
+    },
+    {
+        "id": 156,
+        "side": "front",
+        "text": "MOTHER ____"
+    },
+    {
+        "id": 157,
+        "side": "front",
+        "text": "LIFE ____"
+    },
+    {
+        "id": 158,
+        "side": "front",
+        "text": "JUNK ____"
+    },
+    {
+        "id": 159,
+        "side": "front",
+        "text": "CLUB ____"
+    },
+    {
+        "id": 160,
+        "side": "front",
+        "text": "HOLY ____"
+    },
+    {
+        "id": 161,
+        "side": "front",
+        "text": "HAND ____"
+    },
+    {
+        "id": 162,
+        "side": "front",
+        "text": "GIFT ____"
+    },
+    {
+        "id": 163,
+        "side": "front",
+        "text": "OH ____"
+    },
+    {
+        "id": 164,
+        "side": "front",
+        "text": "JUMP ____"
+    },
+    {
+        "id": 165,
+        "side": "front",
+        "text": "SECURITY ____"
+    },
+    {
+        "id": 166,
+        "side": "front",
+        "text": "FAT ____"
+    },
+    {
+        "id": 167,
+        "side": "front",
+        "text": "KEEP ____"
+    },
+    {
+        "id": 168,
+        "side": "front",
+        "text": "LAP ____"
+    },
+    {
+        "id": 169,
+        "side": "front",
+        "text": "BARN ____"
+    },
+    {
+        "id": 170,
+        "side": "front",
+        "text": "HIGH ____"
+    },
+    {
+        "id": 171,
+        "side": "front",
+        "text": "DEAD ____"
+    },
+    {
+        "id": 172,
+        "side": "front",
+        "text": "WEDDING ____"
+    },
+    {
+        "id": 173,
+        "side": "front",
+        "text": "GROUND ____"
+    },
+    {
+        "id": 174,
+        "side": "front",
+        "text": "JACK ____"
+    },
+    {
+        "id": 175,
+        "side": "front",
+        "text": "BARE ____"
+    },
+    {
+        "id": 176,
+        "side": "front",
+        "text": "PIT ____"
+    },
+    {
+        "id": 177,
+        "side": "front",
+        "text": "MAN ____"
+    },
+    {
+        "id": 178,
+        "side": "front",
+        "text": "CHECK ____"
+    },
+    {
+        "id": 179,
+        "side": "front",
+        "text": "FIELD ____"
+    },
+    {
+        "id": 180,
+        "side": "front",
+        "text": "SEMI ____"
+    },
+    {
+        "id": 181,
+        "side": "front",
+        "text": "APPLE ____"
+    },
+    {
+        "id": 182,
+        "side": "front",
+        "text": "EASTER ____"
+    },
+    {
+        "id": 183,
+        "side": "front",
+        "text": "CANDY ____"
+    },
+    {
+        "id": 184,
+        "side": "front",
+        "text": "MAKE ____"
+    },
+    {
+        "id": 185,
+        "side": "front",
+        "text": "ICE ____"
+    },
+    {
+        "id": 186,
+        "side": "front",
+        "text": "GET ____"
+    },
+    {
+        "id": 187,
+        "side": "front",
+        "text": "LUNCH ____"
+    },
+    {
+        "id": 188,
+        "side": "front",
+        "text": "EVEN ____"
+    },
+    {
+        "id": 189,
+        "side": "front",
+        "text": "KICK ____"
+    },
+    {
+        "id": 190,
+        "side": "front",
+        "text": "DIRTY ____"
+    },
+    {
+        "id": 191,
+        "side": "front",
+        "text": "POP ____"
+    },
+    {
+        "id": 192,
+        "side": "front",
+        "text": "BANANA ____"
+    },
+    {
+        "id": 193,
+        "side": "front",
+        "text": "CREAM ____"
+    },
+    {
+        "id": 194,
+        "side": "front",
+        "text": "LIGHT ____"
+    },
+    {
+        "id": 195,
+        "side": "front",
+        "text": "LAND ____"
+    },
+    {
+        "id": 196,
+        "side": "front",
+        "text": "LEFT ____"
+    },
+    {
+        "id": 197,
+        "side": "front",
+        "text": "BETTER ____"
+    },
+    {
+        "id": 198,
+        "side": "front",
+        "text": "DOUBLE ____"
+    },
+    {
+        "id": 199,
+        "side": "front",
+        "text": "FRUIT ____"
+    },
+    {
+        "id": 200,
+        "side": "front",
+        "text": "GAME ____"
+    },
+    {
+        "id": 201,
+        "side": "front",
+        "text": "HOT ____"
+    },
+    {
+        "id": 202,
+        "side": "front",
+        "text": "HOME ____"
+    },
+    {
+        "id": 203,
+        "side": "front",
+        "text": "BASE ____"
+    },
+    {
+        "id": 204,
+        "side": "front",
+        "text": "JELLY ____"
+    },
+    {
+        "id": 205,
+        "side": "front",
+        "text": "DRAW ____"
+    },
+    {
+        "id": 206,
+        "side": "front",
+        "text": "CANDLE ____"
+    },
+    {
+        "id": 207,
+        "side": "front",
+        "text": "NO ____"
+    },
+    {
+        "id": 208,
+        "side": "front",
+        "text": "PIG ____"
+    },
+    {
+        "id": 209,
+        "side": "front",
+        "text": "PERFECT ____"
+    },
+    {
+        "id": 210,
+        "side": "front",
+        "text": "NORTH ____"
+    },
+    {
+        "id": 211,
+        "side": "front",
+        "text": "FLOWER ____"
+    },
+    {
+        "id": 212,
+        "side": "front",
+        "text": "MOVING ____"
+    },
+    {
+        "id": 213,
+        "side": "front",
+        "text": "NEVER ____"
+    },
+    {
+        "id": 214,
+        "side": "front",
+        "text": "BUSINESS ____"
+    },
+    {
+        "id": 215,
+        "side": "front",
+        "text": "COW ____"
+    },
+    {
+        "id": 216,
+        "side": "front",
+        "text": "MASTER ____"
+    },
+    {
+        "id": 217,
+        "side": "front",
+        "text": "DOOR ____"
+    },
+    {
+        "id": 218,
+        "side": "front",
+        "text": "MID ____"
+    },
+    {
+        "id": 219,
+        "side": "front",
+        "text": "HYPER ____"
+    },
+    {
+        "id": 220,
+        "side": "front",
+        "text": "COLD ____"
+    },
+    {
+        "id": 221,
+        "side": "front",
+        "text": "GOLDEN ____"
+    },
+    {
+        "id": 222,
+        "side": "front",
+        "text": "SCREW ____"
+    },
+    {
+        "id": 223,
+        "side": "front",
+        "text": "FOOD ____"
+    },
+    {
+        "id": 224,
+        "side": "front",
+        "text": "PAY ____"
+    },
+    {
+        "id": 225,
+        "side": "front",
+        "text": "SHORT ____"
+    },
+    {
+        "id": 226,
+        "side": "front",
+        "text": "CHERRY ____"
+    },
+    {
+        "id": 227,
+        "side": "front",
+        "text": "ROCK ____"
+    },
+    {
+        "id": 228,
+        "side": "front",
+        "text": "CHICKEN ____"
+    },
+    {
+        "id": 229,
+        "side": "front",
+        "text": "SEA ____"
+    },
+    {
+        "id": 230,
+        "side": "front",
+        "text": "JUST ____"
+    },
+    {
+        "id": 231,
+        "side": "front",
+        "text": "CHAIN ____"
+    },
+    {
+        "id": 232,
+        "side": "front",
+        "text": "MOUTH ____"
+    },
+    {
+        "id": 233,
+        "side": "front",
+        "text": "HOLD ____"
+    },
+    {
+        "id": 234,
+        "side": "front",
+        "text": "SHOE ____"
+    },
+    {
+        "id": 235,
+        "side": "front",
+        "text": "SHOPPING ____"
+    },
+    {
+        "id": 236,
+        "side": "front",
+        "text": "EVENING ____"
+    },
+    {
+        "id": 237,
+        "side": "front",
+        "text": "FULL ____"
+    },
+    {
+        "id": 238,
+        "side": "front",
+        "text": "CAT ____"
+    },
+    {
+        "id": 239,
+        "side": "front",
+        "text": "GREAT ____"
+    },
+    {
+        "id": 240,
+        "side": "front",
+        "text": "FRENCH ____"
+    },
+    {
+        "id": 241,
+        "side": "front",
+        "text": "PICNIC ____"
+    },
+    {
+        "id": 242,
+        "side": "front",
+        "text": "ODD ____"
+    },
+    {
+        "id": 243,
+        "side": "front",
+        "text": "BEST ____"
+    },
+    {
+        "id": 244,
+        "side": "front",
+        "text": "FLASH ____"
+    },
+    {
+        "id": 245,
+        "side": "front",
+        "text": "JET ____"
+    },
+    {
+        "id": 246,
+        "side": "front",
+        "text": "SEARCH ____"
+    },
+    {
+        "id": 247,
+        "side": "front",
+        "text": "NOSE ____"
+    },
+    {
+        "id": 248,
+        "side": "front",
+        "text": "MICRO ____"
+    },
+    {
+        "id": 249,
+        "side": "front",
+        "text": "EGG ____"
+    },
+    {
+        "id": 250,
+        "side": "front",
+        "text": "FINE ____"
+    },
+    {
+        "id": 1,
+        "side": "back",
+        "text": "____ GUARD"
+    },
+    {
+        "id": 2,
+        "side": "back",
+        "text": "____ SILENT"
+    },
+    {
+        "id": 3,
+        "side": "back",
+        "text": "____ COURT"
+    },
+    {
+        "id": 4,
+        "side": "back",
+        "text": "____ LANGUAGE"
+    },
+    {
+        "id": 5,
+        "side": "back",
+        "text": "____ STORM"
+    },
+    {
+        "id": 6,
+        "side": "back",
+        "text": "____ POTATO"
+    },
+    {
+        "id": 7,
+        "side": "back",
+        "text": "____ POWDER"
+    },
+    {
+        "id": 8,
+        "side": "back",
+        "text": "SOUTH ____"
+    },
+    {
+        "id": 9,
+        "side": "back",
+        "text": "____ WATER"
+    },
+    {
+        "id": 10,
+        "side": "back",
+        "text": "____ CHIP"
+    },
+    {
+        "id": 11,
+        "side": "back",
+        "text": "____ DOLLAR"
+    },
+    {
+        "id": 12,
+        "side": "back",
+        "text": "____ GEAR"
+    },
+    {
+        "id": 13,
+        "side": "back",
+        "text": "SOCIAL ____"
+    },
+    {
+        "id": 14,
+        "side": "back",
+        "text": "TIME ____"
+    },
+    {
+        "id": 15,
+        "side": "back",
+        "text": "TOOTH ____"
+    },
+    {
+        "id": 16,
+        "side": "back",
+        "text": "____ WASH"
+    },
+    {
+        "id": 17,
+        "side": "back",
+        "text": "____ CHILD"
+    },
+    {
+        "id": 18,
+        "side": "back",
+        "text": "SPOILED ____"
+    },
+    {
+        "id": 19,
+        "side": "back",
+        "text": "____ MEAT"
+    },
+    {
+        "id": 20,
+        "side": "back",
+        "text": "TRUCK ____"
+    },
+    {
+        "id": 21,
+        "side": "back",
+        "text": "TAX ____"
+    },
+    {
+        "id": 22,
+        "side": "back",
+        "text": "WILD ____"
+    },
+    {
+        "id": 23,
+        "side": "back",
+        "text": "____ BREAK"
+    },
+    {
+        "id": 24,
+        "side": "back",
+        "text": "____ FLOOR"
+    },
+    {
+        "id": 25,
+        "side": "back",
+        "text": "SUN ____"
+    },
+    {
+        "id": 26,
+        "side": "back",
+        "text": "SURE ____"
+    },
+    {
+        "id": 27,
+        "side": "back",
+        "text": "____ DANCE"
+    },
+    {
+        "id": 28,
+        "side": "back",
+        "text": "____ WINE"
+    },
+    {
+        "id": 29,
+        "side": "back",
+        "text": "____ LESS"
+    },
+    {
+        "id": 30,
+        "side": "back",
+        "text": "TAIL ____"
+    },
+    {
+        "id": 31,
+        "side": "back",
+        "text": "____ AGE"
+    },
+    {
+        "id": 32,
+        "side": "back",
+        "text": "____ POT"
+    },
+    {
+        "id": 33,
+        "side": "back",
+        "text": "SWEET ____"
+    },
+    {
+        "id": 34,
+        "side": "back",
+        "text": "____ FATHER"
+    },
+    {
+        "id": 35,
+        "side": "back",
+        "text": "STOCK ____"
+    },
+    {
+        "id": 36,
+        "side": "back",
+        "text": "SUPER ____"
+    },
+    {
+        "id": 37,
+        "side": "back",
+        "text": "____ NAME"
+    },
+    {
+        "id": 38,
+        "side": "back",
+        "text": "____ WEIGHT"
+    },
+    {
+        "id": 39,
+        "side": "back",
+        "text": "TENNIS ____"
+    },
+    {
+        "id": 40,
+        "side": "back",
+        "text": "____ MATE"
+    },
+    {
+        "id": 41,
+        "side": "back",
+        "text": "TOP ____"
+    },
+    {
+        "id": 42,
+        "side": "back",
+        "text": "____ BLUE"
+    },
+    {
+        "id": 43,
+        "side": "back",
+        "text": "____ DUTY"
+    },
+    {
+        "id": 44,
+        "side": "back",
+        "text": "____ CUP"
+    },
+    {
+        "id": 45,
+        "side": "back",
+        "text": "____ EVER"
+    },
+    {
+        "id": 46,
+        "side": "back",
+        "text": "WHITE ____"
+    },
+    {
+        "id": 47,
+        "side": "back",
+        "text": "____ FRY"
+    },
+    {
+        "id": 48,
+        "side": "back",
+        "text": "____ PAPER"
+    },
+    {
+        "id": 49,
+        "side": "back",
+        "text": "____ OIL"
+    },
+    {
+        "id": 50,
+        "side": "back",
+        "text": "SUB ____"
+    },
+    {
+        "id": 51,
+        "side": "back",
+        "text": "SPIT ____"
+    },
+    {
+        "id": 52,
+        "side": "back",
+        "text": "____ PIT"
+    },
+    {
+        "id": 53,
+        "side": "back",
+        "text": "____ BUG"
+    },
+    {
+        "id": 54,
+        "side": "back",
+        "text": "STRIP ____"
+    },
+    {
+        "id": 55,
+        "side": "back",
+        "text": "SMOOTH ____"
+    },
+    {
+        "id": 56,
+        "side": "back",
+        "text": "____ WELL"
+    },
+    {
+        "id": 57,
+        "side": "back",
+        "text": "SWEAT ____"
+    },
+    {
+        "id": 58,
+        "side": "back",
+        "text": "SIDE ____"
+    },
+    {
+        "id": 59,
+        "side": "back",
+        "text": "TEAM ____"
+    },
+    {
+        "id": 60,
+        "side": "back",
+        "text": "SOUND ____"
+    },
+    {
+        "id": 61,
+        "side": "back",
+        "text": "STRAIGHT ____"
+    },
+    {
+        "id": 62,
+        "side": "back",
+        "text": "SNOW ____"
+    },
+    {
+        "id": 63,
+        "side": "back",
+        "text": "____ DRUM"
+    },
+    {
+        "id": 64,
+        "side": "back",
+        "text": "BALL ____"
+    },
+    {
+        "id": 65,
+        "side": "back",
+        "text": "____ BRUSH"
+    },
+    {
+        "id": 66,
+        "side": "back",
+        "text": "WATER ____"
+    },
+    {
+        "id": 67,
+        "side": "back",
+        "text": "SPARE ____"
+    },
+    {
+        "id": 68,
+        "side": "back",
+        "text": "____ LOAD"
+    },
+    {
+        "id": 69,
+        "side": "back",
+        "text": "STRING ____"
+    },
+    {
+        "id": 70,
+        "side": "back",
+        "text": "____ ROOM"
+    },
+    {
+        "id": 71,
+        "side": "back",
+        "text": "____ CHOCOLATE"
+    },
+    {
+        "id": 72,
+        "side": "back",
+        "text": "TIGHT ____"
+    },
+    {
+        "id": 73,
+        "side": "back",
+        "text": "____ BODY"
+    },
+    {
+        "id": 74,
+        "side": "back",
+        "text": "____ BEAN"
+    },
+    {
+        "id": 75,
+        "side": "back",
+        "text": "SHAKE ____"
+    },
+    {
+        "id": 76,
+        "side": "back",
+        "text": "____ GREEN"
+    },
+    {
+        "id": 77,
+        "side": "back",
+        "text": "THANK ____"
+    },
+    {
+        "id": 78,
+        "side": "back",
+        "text": "____ GLOVE"
+    },
+    {
+        "id": 79,
+        "side": "back",
+        "text": "____ POLE"
+    },
+    {
+        "id": 80,
+        "side": "back",
+        "text": "____ PARTY"
+    },
+    {
+        "id": 81,
+        "side": "back",
+        "text": "____ AID"
+    },
+    {
+        "id": 82,
+        "side": "back",
+        "text": "____ DOG"
+    },
+    {
+        "id": 83,
+        "side": "back",
+        "text": "____ CORN"
+    },
+    {
+        "id": 84,
+        "side": "back",
+        "text": "____ BITE"
+    },
+    {
+        "id": 85,
+        "side": "back",
+        "text": "____ STORY"
+    },
+    {
+        "id": 86,
+        "side": "back",
+        "text": "____ CLASS"
+    },
+    {
+        "id": 87,
+        "side": "back",
+        "text": "____ PAD"
+    },
+    {
+        "id": 88,
+        "side": "back",
+        "text": "____ MARK"
+    },
+    {
+        "id": 89,
+        "side": "back",
+        "text": "____ TANK"
+    },
+    {
+        "id": 90,
+        "side": "back",
+        "text": "____ BELLY"
+    },
+    {
+        "id": 91,
+        "side": "back",
+        "text": "____ LIMIT"
+    },
+    {
+        "id": 92,
+        "side": "back",
+        "text": "____ BERRY"
+    },
+    {
+        "id": 93,
+        "side": "back",
+        "text": "____ BREAD"
+    },
+    {
+        "id": 94,
+        "side": "back",
+        "text": "____ CAKE"
+    },
+    {
+        "id": 95,
+        "side": "back",
+        "text": "____ BAG"
+    },
+    {
+        "id": 96,
+        "side": "back",
+        "text": "____ CASE"
+    },
+    {
+        "id": 97,
+        "side": "back",
+        "text": "____ CLUB"
+    },
+    {
+        "id": 98,
+        "side": "back",
+        "text": "VEGETABLE ____"
+    },
+    {
+        "id": 99,
+        "side": "back",
+        "text": "____ FRAME"
+    },
+    {
+        "id": 100,
+        "side": "back",
+        "text": "____ PIE"
+    },
+    {
+        "id": 101,
+        "side": "back",
+        "text": "____ PRINT"
+    },
+    {
+        "id": 102,
+        "side": "back",
+        "text": "____ SHOWER"
+    },
+    {
+        "id": 103,
+        "side": "back",
+        "text": "____ BLOCK"
+    },
+    {
+        "id": 104,
+        "side": "back",
+        "text": "____ LIGHT"
+    },
+    {
+        "id": 105,
+        "side": "back",
+        "text": "SHOW ____"
+    },
+    {
+        "id": 106,
+        "side": "back",
+        "text": "____ FLY"
+    },
+    {
+        "id": 107,
+        "side": "back",
+        "text": "____ BOOK"
+    },
+    {
+        "id": 108,
+        "side": "back",
+        "text": "____ HOUSE"
+    },
+    {
+        "id": 109,
+        "side": "back",
+        "text": "SOFT ____"
+    },
+    {
+        "id": 110,
+        "side": "back",
+        "text": "____ FEE"
+    },
+    {
+        "id": 111,
+        "side": "back",
+        "text": "____ BUSINESS"
+    },
+    {
+        "id": 112,
+        "side": "back",
+        "text": "____ BURN"
+    },
+    {
+        "id": 113,
+        "side": "back",
+        "text": "____ BIRD"
+    },
+    {
+        "id": 114,
+        "side": "back",
+        "text": "____ PAINT"
+    },
+    {
+        "id": 115,
+        "side": "back",
+        "text": "____ BONE"
+    },
+    {
+        "id": 116,
+        "side": "back",
+        "text": "____ LIFE"
+    },
+    {
+        "id": 117,
+        "side": "back",
+        "text": "____ FRIEND"
+    },
+    {
+        "id": 118,
+        "side": "back",
+        "text": "SOUL ____"
+    },
+    {
+        "id": 119,
+        "side": "back",
+        "text": "SO ____"
+    },
+    {
+        "id": 120,
+        "side": "back",
+        "text": "____ DONE"
+    },
+    {
+        "id": 121,
+        "side": "back",
+        "text": "TEA ____"
+    },
+    {
+        "id": 122,
+        "side": "back",
+        "text": "TEST ____"
+    },
+    {
+        "id": 123,
+        "side": "back",
+        "text": "____ JAM"
+    },
+    {
+        "id": 124,
+        "side": "back",
+        "text": "TRAIN ____"
+    },
+    {
+        "id": 125,
+        "side": "back",
+        "text": "TOILET ____"
+    },
+    {
+        "id": 126,
+        "side": "back",
+        "text": "____ BED"
+    },
+    {
+        "id": 127,
+        "side": "back",
+        "text": "____ HARD"
+    },
+    {
+        "id": 128,
+        "side": "back",
+        "text": "____ KEY"
+    },
+    {
+        "id": 129,
+        "side": "back",
+        "text": "____ WORD"
+    },
+    {
+        "id": 130,
+        "side": "back",
+        "text": "____ BAND"
+    },
+    {
+        "id": 131,
+        "side": "back",
+        "text": "____ BAR"
+    },
+    {
+        "id": 132,
+        "side": "back",
+        "text": "____ FIGHT"
+    },
+    {
+        "id": 133,
+        "side": "back",
+        "text": "SPRING ____"
+    },
+    {
+        "id": 134,
+        "side": "back",
+        "text": "____ WORK"
+    },
+    {
+        "id": 135,
+        "side": "back",
+        "text": "TOUGH ____"
+    },
+    {
+        "id": 136,
+        "side": "back",
+        "text": "____ CUT"
+    },
+    {
+        "id": 137,
+        "side": "back",
+        "text": "SMALL ____"
+    },
+    {
+        "id": 138,
+        "side": "back",
+        "text": "____ GOOD"
+    },
+    {
+        "id": 139,
+        "side": "back",
+        "text": "____ SAUCE"
+    },
+    {
+        "id": 140,
+        "side": "back",
+        "text": "____ FISH"
+    },
+    {
+        "id": 141,
+        "side": "back",
+        "text": "____ COAT"
+    },
+    {
+        "id": 142,
+        "side": "back",
+        "text": "____ DRIVER"
+    },
+    {
+        "id": 143,
+        "side": "back",
+        "text": "____ HORSE"
+    },
+    {
+        "id": 144,
+        "side": "back",
+        "text": "____ GUESS"
+    },
+    {
+        "id": 145,
+        "side": "back",
+        "text": "____ BEER"
+    },
+    {
+        "id": 146,
+        "side": "back",
+        "text": "____ TIME"
+    },
+    {
+        "id": 147,
+        "side": "back",
+        "text": "____ MARKET"
+    },
+    {
+        "id": 148,
+        "side": "back",
+        "text": "____ FAIR"
+    },
+    {
+        "id": 149,
+        "side": "back",
+        "text": "____ HOUR"
+    },
+    {
+        "id": 150,
+        "side": "back",
+        "text": "WELCOME ____"
+    },
+    {
+        "id": 151,
+        "side": "back",
+        "text": "____ SPOT"
+    },
+    {
+        "id": 152,
+        "side": "back",
+        "text": "STAR ____"
+    },
+    {
+        "id": 153,
+        "side": "back",
+        "text": "____ DUCK"
+    },
+    {
+        "id": 154,
+        "side": "back",
+        "text": "____ SUIT"
+    },
+    {
+        "id": 155,
+        "side": "back",
+        "text": "____ PICK"
+    },
+    {
+        "id": 156,
+        "side": "back",
+        "text": "____ FIELD"
+    },
+    {
+        "id": 157,
+        "side": "back",
+        "text": "____ STOOL"
+    },
+    {
+        "id": 158,
+        "side": "back",
+        "text": "____ SKATE"
+    },
+    {
+        "id": 159,
+        "side": "back",
+        "text": "UPPER ____"
+    },
+    {
+        "id": 160,
+        "side": "back",
+        "text": "____ REST"
+    },
+    {
+        "id": 161,
+        "side": "back",
+        "text": "____ CHANCE"
+    },
+    {
+        "id": 162,
+        "side": "back",
+        "text": "____ BOARD"
+    },
+    {
+        "id": 163,
+        "side": "back",
+        "text": "SLOW ____"
+    },
+    {
+        "id": 164,
+        "side": "back",
+        "text": "____ DATE"
+    },
+    {
+        "id": 165,
+        "side": "back",
+        "text": "WHAT'S ____"
+    },
+    {
+        "id": 166,
+        "side": "back",
+        "text": "____ JOB"
+    },
+    {
+        "id": 167,
+        "side": "back",
+        "text": "____ DOOR"
+    },
+    {
+        "id": 168,
+        "side": "back",
+        "text": "____ DRIVE"
+    },
+    {
+        "id": 169,
+        "side": "back",
+        "text": "____ BEE"
+    },
+    {
+        "id": 170,
+        "side": "back",
+        "text": "____ CLOCK"
+    },
+    {
+        "id": 171,
+        "side": "back",
+        "text": "____ FEET"
+    },
+    {
+        "id": 172,
+        "side": "back",
+        "text": "____ BALL"
+    },
+    {
+        "id": 173,
+        "side": "back",
+        "text": "____ PEN"
+    },
+    {
+        "id": 174,
+        "side": "back",
+        "text": "____ SHRINE"
+    },
+    {
+        "id": 175,
+        "side": "back",
+        "text": "____ BEAR"
+    },
+    {
+        "id": 176,
+        "side": "back",
+        "text": "SPOT ____"
+    },
+    {
+        "id": 177,
+        "side": "back",
+        "text": "____ TAG"
+    },
+    {
+        "id": 178,
+        "side": "back",
+        "text": "____ CREAM"
+    },
+    {
+        "id": 179,
+        "side": "back",
+        "text": "____ JUICE"
+    },
+    {
+        "id": 180,
+        "side": "back",
+        "text": "____ POWER"
+    },
+    {
+        "id": 181,
+        "side": "back",
+        "text": "____ ACHE"
+    },
+    {
+        "id": 182,
+        "side": "back",
+        "text": "____ HOLE"
+    },
+    {
+        "id": 183,
+        "side": "back",
+        "text": "____ CONTROL"
+    },
+    {
+        "id": 184,
+        "side": "back",
+        "text": "____ TABLE"
+    },
+    {
+        "id": 185,
+        "side": "back",
+        "text": "____ SEAT"
+    },
+    {
+        "id": 186,
+        "side": "back",
+        "text": "____ OFFICE"
+    },
+    {
+        "id": 187,
+        "side": "back",
+        "text": "____ FLOW"
+    },
+    {
+        "id": 188,
+        "side": "back",
+        "text": "WINE ____"
+    },
+    {
+        "id": 189,
+        "side": "back",
+        "text": "____ DOWN"
+    },
+    {
+        "id": 190,
+        "side": "back",
+        "text": "____ FLAKES"
+    },
+    {
+        "id": 191,
+        "side": "back",
+        "text": "STIFF ____"
+    },
+    {
+        "id": 192,
+        "side": "back",
+        "text": "____ BASKET"
+    },
+    {
+        "id": 193,
+        "side": "back",
+        "text": "____ FACE"
+    },
+    {
+        "id": 194,
+        "side": "back",
+        "text": "____ STOP"
+    },
+    {
+        "id": 195,
+        "side": "back",
+        "text": "____ STAR"
+    },
+    {
+        "id": 196,
+        "side": "back",
+        "text": "____ STATION"
+    },
+    {
+        "id": 197,
+        "side": "back",
+        "text": "SUMMER ____"
+    },
+    {
+        "id": 198,
+        "side": "back",
+        "text": "____ FREE"
+    },
+    {
+        "id": 199,
+        "side": "back",
+        "text": "____ BLANKET"
+    },
+    {
+        "id": 200,
+        "side": "back",
+        "text": "____ NIGHT"
+    },
+    {
+        "id": 201,
+        "side": "back",
+        "text": "____ SALAD"
+    },
+    {
+        "id": 202,
+        "side": "back",
+        "text": "____ RING"
+    },
+    {
+        "id": 203,
+        "side": "back",
+        "text": "SPEED ____"
+    },
+    {
+        "id": 204,
+        "side": "back",
+        "text": "____ SHOP"
+    },
+    {
+        "id": 205,
+        "side": "back",
+        "text": "____ GUN"
+    },
+    {
+        "id": 206,
+        "side": "back",
+        "text": "TOO ____"
+    },
+    {
+        "id": 207,
+        "side": "back",
+        "text": "SILVER ____"
+    },
+    {
+        "id": 208,
+        "side": "back",
+        "text": "____ HAND"
+    },
+    {
+        "id": 209,
+        "side": "back",
+        "text": "SOUR ____"
+    },
+    {
+        "id": 210,
+        "side": "back",
+        "text": "SITTING ____"
+    },
+    {
+        "id": 211,
+        "side": "back",
+        "text": "____ BELL"
+    },
+    {
+        "id": 212,
+        "side": "back",
+        "text": "____ FIRE"
+    },
+    {
+        "id": 213,
+        "side": "back",
+        "text": "____ FRONT"
+    },
+    {
+        "id": 214,
+        "side": "back",
+        "text": "THIRD ____"
+    },
+    {
+        "id": 215,
+        "side": "back",
+        "text": "____ EGG"
+    },
+    {
+        "id": 216,
+        "side": "back",
+        "text": "____ TICKET"
+    },
+    {
+        "id": 217,
+        "side": "back",
+        "text": "____ FOOD"
+    },
+    {
+        "id": 218,
+        "side": "back",
+        "text": "____ WALK"
+    },
+    {
+        "id": 219,
+        "side": "back",
+        "text": "____ CYCLE"
+    },
+    {
+        "id": 220,
+        "side": "back",
+        "text": "____ DROP"
+    },
+    {
+        "id": 221,
+        "side": "back",
+        "text": "____ ORDER"
+    },
+    {
+        "id": 222,
+        "side": "back",
+        "text": "TRAINING ____"
+    },
+    {
+        "id": 223,
+        "side": "back",
+        "text": "____ BENCH"
+    },
+    {
+        "id": 224,
+        "side": "back",
+        "text": "____ GROWN"
+    },
+    {
+        "id": 225,
+        "side": "back",
+        "text": "WIDE ____"
+    },
+    {
+        "id": 226,
+        "side": "back",
+        "text": "TREE ____"
+    },
+    {
+        "id": 227,
+        "side": "back",
+        "text": "____ LAND"
+    },
+    {
+        "id": 228,
+        "side": "back",
+        "text": "TROPICAL ____"
+    },
+    {
+        "id": 229,
+        "side": "back",
+        "text": "UNDER ____"
+    },
+    {
+        "id": 230,
+        "side": "back",
+        "text": "____ DOLL"
+    },
+    {
+        "id": 231,
+        "side": "back",
+        "text": "____ COURSE"
+    },
+    {
+        "id": 232,
+        "side": "back",
+        "text": "____ FINGER"
+    },
+    {
+        "id": 233,
+        "side": "back",
+        "text": "____ COW"
+    },
+    {
+        "id": 234,
+        "side": "back",
+        "text": "WET ____"
+    },
+    {
+        "id": 235,
+        "side": "back",
+        "text": "____ SERVICE"
+    },
+    {
+        "id": 236,
+        "side": "back",
+        "text": "WORLD ____"
+    },
+    {
+        "id": 237,
+        "side": "back",
+        "text": "____ NECK"
+    },
+    {
+        "id": 238,
+        "side": "back",
+        "text": "TRAFFIC ____"
+    },
+    {
+        "id": 239,
+        "side": "back",
+        "text": "____ BOWL"
+    },
+    {
+        "id": 240,
+        "side": "back",
+        "text": "____ MOUTH"
+    },
+    {
+        "id": 241,
+        "side": "back",
+        "text": "____ GUY"
+    },
+    {
+        "id": 242,
+        "side": "back",
+        "text": "____ GLASS"
+    },
+    {
+        "id": 243,
+        "side": "back",
+        "text": "____ BOAT"
+    },
+    {
+        "id": 244,
+        "side": "back",
+        "text": "____ LUCK"
+    },
+    {
+        "id": 245,
+        "side": "back",
+        "text": "____ SHOT"
+    },
+    {
+        "id": 246,
+        "side": "back",
+        "text": "UP ____"
+    },
+    {
+        "id": 247,
+        "side": "back",
+        "text": "SKY ____"
+    },
+    {
+        "id": 248,
+        "side": "back",
+        "text": "____ TOWN"
+    },
+    {
+        "id": 249,
+        "side": "back",
+        "text": "WINDOW ____"
+    },
+    {
+        "id": 250,
+        "side": "back",
+        "text": "____ KEEPER"
+    }
+]
