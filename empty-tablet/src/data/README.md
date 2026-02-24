@@ -1,1 +1,1 @@
-PLACEHOLDER
+Data. Contains the card JSON files.
