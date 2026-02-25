@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { Rammetto_One } from "next/font/google"; 
 import "./globals.css";
 import Link from "next/link";
 
@@ -13,11 +14,34 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const ramettoPlay = Rammetto_One({
+  variable: "--font-rametto-play",
+  subsets: ["latin"],
+  weight: "400",
+});
+
 export const metadata: Metadata = {
   title: "Empty Tablet",
   description: "the whacky guessing game for all your weird friends",
 };
 
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="en">
+      <body className={`${ramettoPlay.variable} antialiased`}>
+        <nav className="navbar">
+          <Link href="/">Home <br></br></Link>
+          <Link href="/lobby">Lobby</Link>
+        </nav>
+        {children}
+      </body>
+    </html>
+  );
+}
 
 // export default function RootLayout({
 //   children,
@@ -35,18 +59,3 @@ export const metadata: Metadata = {
 //     </html>
 //   );
 // }
-
-export default function RootLayout({ children }) {
-  return (
-    <html lang="en">
-      <body>
-        <nav className="navbar">
-          <Link href="/">Home <br></br></Link>
-          <Link href="/lobby">Lobby</Link>
-        </nav>
-        {children}
-      </body>
-    </html>
-  );
-}
-

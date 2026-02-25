@@ -1,0 +1,20 @@
+.button {
+    border: none;
+    cursor: pointer;
+    transition: 0.5s ease;
+    border-radius: 25px;
+}
+
+.button-play{
+    background-color: green;
+    padding: 25px 50px
+    
+}
+
+button:disabled {
+  background-color: #cccccc; /* Gray background */
+  color: #666666;             /* Darker text color */
+  cursor: not-allowed;        /* Change cursor to 'not-allowed' symbol */
+  opacity: 0.7;               /* Make it slightly transparent */
+  /* Remove hover effects that apply to enabled buttons */
+}

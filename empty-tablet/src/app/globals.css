@@ -10,6 +10,7 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-play: var(--font-rametto-play);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -43,20 +44,20 @@ body {
   color: rgb(115, 255, 255);
 }
 
-.change-pages {
-  font-size: 1.5rem;
-  text-decoration: none;
-  color: rgb(47, 149, 149);
-  border-radius: 0.5rem;
-  transition: transform 0.2s;
-  align-items: center;
-  margin-top: 1rem; /* adds spacing if multiple links */
-}
-
-.pagechange-wrapper {
+.play-wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-grow: 1;
-  margin-top: 10%;
+  margin-top: 22%;
+  font-family: var(--font-rametto-play);
+  font-size: 4rem;
+  text-decoration: none;
+  color: rgb(150, 150, 150);
+  border-radius: 0.5rem;
+  transition: transform 0.2s;
+}
+
+.play-wrapper.nomargin {
+  margin-top: 542;
 }
