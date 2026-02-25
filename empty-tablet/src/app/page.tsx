@@ -1,27 +1,55 @@
 "use client";
 
-import Router from "next/navigation";
+import { useRouter } from "next/navigation";
 import Button from "../components/play-button";
+import { useState } from "react";
+import "../components/rules.css";
+import Rules from "../components/rules";
+//import Link from "next/link";
 
 export default function HomePage() {
 
-  const router = Router.useRouter();
+  const router = useRouter();
+
+  const [lobbyButton, lobbyButtonState] =  useState(false);
+  const [rulesActive, setRulesActive] = useState(false);
 
   return (
     <main>
-      <h1>Home Page</h1>
-      <p >Welcome to my site.</p> <br></br>
-        <div className="play-wrapper">
-          <Button variant="play"  onClick={() => router.push("/lobby")}>
+      <h1 className = "big-title">EMPTY TABLET</h1>
+      <h2 className = "sub-big-title">Write a word to complete a phrase - can you match with exactly one person?</h2>
+      <div className="play-wrapper">
+        {!lobbyButton && (
+          <Button variant="play"  onClick={() => {lobbyButtonState(true);}}>
             PLAY
           </Button>
-        </div>
+          )}
 
-      <h1>
-        <div className="play-wrapper nomargin">
-            <Button variant = "play" onClick={() => router.push("/game")}>game</Button>
+        {lobbyButton && (
+          <div className = "hojo-wrapper">
+          <Button variant="hojo" onClick={() => router.push("/lobby")}>HOST</Button>
+          <Button variant="hojo" onClick={() => router.push("/game")}>JOIN</Button>
+          </div>
+        )}
+      </div>
+
+
+      <p className="rules-link" onClick={() => setRulesActive(true)}>
+        HOW TO PLAY
+      </p>
+
+      {rulesActive && (
+        <div className="rules-dark-overlay" onClick={() => setRulesActive(false)}>
+          <div className="rules-box" onClick={(e) => e.stopPropagation()}>
+            <Rules />
+          </div> 
         </div>
-      </h1>
+      )}
+
+
+      {/* <p className="rules-link">
+        <Link href="/rules">Rules</Link>
+      </p> */}
     </main>
   );
 }

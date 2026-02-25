@@ -11,6 +11,15 @@
     
 }
 
+.button-hojo{
+    background-color: #8b4513;
+    padding: 25px 25px
+}
+
+.button-small{
+    font-size: 3.25rem;
+}
+
 button:disabled {
   background-color: #cccccc; /* Gray background */
   color: #666666;             /* Darker text color */

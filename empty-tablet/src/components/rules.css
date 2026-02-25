@@ -1,0 +1,82 @@
+.rules-link { 
+    position: absolute;
+    bottom: 20px; 
+    width: 100%; 
+    text-align: center; 
+    color: rgb(0, 0, 255); 
+    font-size: 1.2rem; 
+    cursor: pointer; 
+    text-decoration: underline;
+} 
+
+.rules-dark-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background: rgba(0,0,0,0.6);
+    display: flex;
+}
+
+.rules-box {
+    background: rgb(220,220,220);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    color: rgb(0, 0, 0);
+    padding: 12px 12px;
+    font-size: 25px;
+    width: 600px;
+    height: auto;
+    border-radius: 15px;
+    border-color: black;
+}
+
+.rules-title { 
+    font-size: 36px; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+    position: top;
+    width: 100%;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.rules-subtitle {
+    font-size: 24 ;
+    font-weight: bold;
+    text-align: left;
+    
+}
+
+.rules-text {
+    text-align: left;
+    font-size: 16px; 
+    line-height: 1.4; 
+    margin-bottom: 10px;
+}
+
+.rules-list { 
+    list-style-type: circle;
+    width: 100%; 
+    padding-left: 20px; /* indent bullets */ 
+    margin: 0 0 10px 0; /* spacing under the list */ 
+    font-size: 16px; 
+    line-height: 1.4; 
+    text-align: left; 
+}
+
+.gameflow-list { 
+    list-style-type: decimal;
+    width: 100%; 
+    padding-left: 20px; /* indent bullets */ 
+    margin: 0 0 10px 0; /* spacing under the list */ 
+    font-size: 16px; 
+    line-height: 1.4; 
+    text-align: left; 
+}

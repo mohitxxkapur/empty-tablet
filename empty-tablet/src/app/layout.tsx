@@ -33,10 +33,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${ramettoPlay.variable} antialiased`}>
-        <nav className="navbar">
+        {/* <nav className="navbar">
           <Link href="/">Home <br></br></Link>
           <Link href="/lobby">Lobby</Link>
-        </nav>
+        </nav> */}
         {children}
       </body>
     </html>

@@ -8,6 +8,7 @@ interface PlayButtonProps {
   disabled?: boolean;
   onClick?: () => void;
   variant?: "play" | "hojo";
+  className?: string;
 }
 
 export default function PlayButton({
@@ -15,10 +16,11 @@ export default function PlayButton({
     disabled = false,
     onClick,
     variant = "play",
+    className = ""
 }: PlayButtonProps) {
     return (
         <button
-            className={`button button-${variant}`}
+            className={`button button-${variant} ${className}`}
             onClick={onClick}
             disabled={disabled}
         >

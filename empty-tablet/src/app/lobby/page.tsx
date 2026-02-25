@@ -13,7 +13,7 @@ export default function LobbyPage() {
       <p>This is the lobby page.</p>
       <br></br>
       <div className= "play-wrapper">
-        <Button variant="play" onClick={() => router.push("/")}>home</Button>
+        <Button variant="play" onClick={() => router.push("/")}>HOME</Button>
       </div>
     </main>
   );
