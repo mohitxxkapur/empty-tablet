@@ -23,12 +23,6 @@ export default function RulesContent() {
                     <li>After a short delay, the next card will be revealed and the game continues!</li>
                     <li>The game ends once someone reaches the assigned score limit.</li>
                 </ul>
-            <p className="rules-subtitle">Helpful tips and tricks</p>
-                <ul className="rules-list">
-                    <li>Get silly with your answers, you never know who might think the same way!</li>
-                    <li>Try and play around a person. If you can predict what someone will say, go with that</li>
-                    <li>Don't stress if you're not able to match with others, all that matters is having fun and being creative.</li>
-                </ul>
         </> 
     ) ; 
 }

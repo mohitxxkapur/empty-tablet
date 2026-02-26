@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import Button from "../components/play-button";
+import Button from "../components/button";
 import { useState } from "react";
 import "../components/rules.css";
 import Rules from "../components/rules";
