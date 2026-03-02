@@ -1,6 +1,6 @@
 "use client";
 
-import Button from "../../components/play-button";
+import Button from "../../components/button";
 import {useRouter} from "next/navigation";
 
 export default function LobbyPage() {

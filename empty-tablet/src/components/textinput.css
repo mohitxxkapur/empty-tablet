@@ -1,1 +1,28 @@
-/*hi*/
+/* Horizontal layout for "label: [textbox]" */
+.textbox-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* The "username:" label */
+.textbox-label {
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+  white-space: nowrap;
+}
+
+/* The textbox itself */
+.textbox-field {
+  padding: 10px 14px;
+  font-size: 18px;
+  border-radius: 8px;
+  border: 2px solid black;
+  outline: none;
+  flex: 1; /* allows textbox to expand */
+}
+
+.textbox-field:focus {
+  border-color: #555;
+}
