@@ -7,6 +7,7 @@ type textBoxProps ={
     placeholder?: string;
     value: string;
     onChange: (value: string) => void;
+    onEnter?: (value: string) => void;
     className?: string;
 };
 
@@ -15,7 +16,8 @@ export default function TextInput({
     placeholder,
     value,
     onChange,
-    className
+    className, 
+    onEnter
 }: textBoxProps) {
     return (
         <div className={`textbox-row ${className || ""}`}>
@@ -26,7 +28,12 @@ export default function TextInput({
                 type= "text"
                 placeholder={placeholder}
                 value= {value}
-                onChange={(e) => onChange(e.target.value)}   
+                onChange={(e) => onChange(e.target.value)}
+                onKeyDown={(e) => {
+                    if (e.key === "Enter" && onEnter) {
+                        onEnter(value);
+                    }
+                }}   
             />
         </div>
     );

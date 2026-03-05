@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import Button from "../components/button";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "../components/rules.css";
 import Rules from "../components/rules";
 import TextInput from "../components/textinput";
@@ -17,6 +17,24 @@ export default function HomePage() {
 
   const [username, setUsername] = useState("");
 
+  useEffect(() => {
+    const saved = sessionStorage.getItem("username");
+    if (saved) {
+      setUsername(saved);
+      console.log ("loaded username: ", saved);
+    }
+  }, []);
+
+  const doUsernameChange = (value: string) => {
+    setUsername(value);
+  }
+
+  const doUsernameEnter = (value: string) => {
+    sessionStorage.setItem("username", value);
+    console.log("saved username: ", value);
+  }
+
+
   return (
     <main>
       <h1 className = "big-title">EMPTY TABLET</h1>
@@ -28,7 +46,8 @@ export default function HomePage() {
           label = "Username"
           placeholder= "Enter your username"
           value= {username}
-          onChange={setUsername}
+          onChange={doUsernameChange}
+          onEnter={doUsernameEnter}
           className="username-input"
         />
 
