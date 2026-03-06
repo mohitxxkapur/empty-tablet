@@ -16,11 +16,19 @@ export default function HomePage() {
   const [rulesActive, setRulesActive] = useState(false);
 
   const [username, setUsername] = useState("");
+  const [userLocked, setUserLocked] = useState(false);
+
+  if (typeof window !== "undefined") {
+    window.addEventListener("beforeunload", () => {
+      sessionStorage.clear();
+    })
+  }
 
   useEffect(() => {
     const saved = sessionStorage.getItem("username");
     if (saved) {
       setUsername(saved);
+      setUserLocked(true);
       console.log ("loaded username: ", saved);
     }
   }, []);
@@ -31,6 +39,7 @@ export default function HomePage() {
 
   const doUsernameEnter = (value: string) => {
     sessionStorage.setItem("username", value);
+    setUserLocked(true);
     console.log("saved username: ", value);
   }
 
@@ -42,7 +51,8 @@ export default function HomePage() {
       
       {/* username textbox */}
       <div className = "frontpage-centre-stack">
-        <TextInput 
+        {!userLocked && (
+          <TextInput 
           label = "Username"
           placeholder= "Enter your username"
           value= {username}
@@ -50,6 +60,14 @@ export default function HomePage() {
           onEnter={doUsernameEnter}
           className="username-input"
         />
+        )}
+
+        {userLocked && (
+          <div className="username-display">
+            <span className="textbox-inline-label">username: </span>
+            <span className="username-value"> {username} </span>
+          </div> 
+        )}
 
         <div className="play-wrapper">
           {!lobbyButton && (

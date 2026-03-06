@@ -106,3 +106,15 @@ body {
   margin-bottom: 20px;
 }
 
+
+.username-display {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+}
+
+.username-value {
+  font-weight: bold;
+}
+

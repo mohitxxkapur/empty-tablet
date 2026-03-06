@@ -11,6 +11,7 @@ export default function LobbyPage() {
     <main>
       <h1>LOBBY PAGE</h1>
       <p>This is the lobby page.</p>
+      <p>user is: {username}</p>
       <br></br>
       <div className= "play-wrapper">
         <Button variant="play" onClick={() => router.push("/")}>HOME</Button>
