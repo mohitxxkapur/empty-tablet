@@ -39,6 +39,7 @@ body {
   text-align: center;
   margin-top: 10px;
   font-size: 35px;
+  color: rgb(0, 0, 0);
 }
 
 /* Navbar */
@@ -94,6 +95,7 @@ body {
 
 .username-input {
   width: 500px;
+  color: rgb(0, 0, 0);
 }
 
 .roomcode-input {
@@ -104,6 +106,7 @@ body {
 .answer-input {
   margin-top: auto;
   margin-bottom: 20px;
+  color: rgb(0, 0, 0);
 }
 
 
@@ -112,6 +115,7 @@ body {
   align-items: center;
   gap: 10px;
   font-size: 20px;
+  color: rgb(0, 0, 0);
 }
 
 .username-value {
